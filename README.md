@@ -1,5 +1,8 @@
 # recipe_app
 
+![recipe_app_ss](https://user-images.githubusercontent.com/78086124/137521621-fa6f2ad8-d121-429d-a43e-252be5b6b1a8.png)
+
+
 A new Flutter project.
 
 ## Getting Started
